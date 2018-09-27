@@ -6,9 +6,7 @@ int main()
 
 	autoGame.LoadGame();
 
+
 	system("PAUSE");
-
-	
-
 	return 0;
 }
